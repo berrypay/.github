@@ -1,1 +1,1 @@
-# .github
+# BerryPay GitHub Organization Profile Repository
